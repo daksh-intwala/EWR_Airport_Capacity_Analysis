@@ -1,0 +1,12 @@
+DEBUG:cmdstanpy:cmd: where.exe tbb.dll
+cwd: None
+DEBUG:cmdstanpy:Adding TBB (C:\Users\hinal\anaconda3\lib\site-packages\prophet\stan_model\cmdstan-2.26.1\stan\lib\stan_math\lib\tbb) to PATH
+INFO:prophet:Disabling yearly seasonality. Run prophet with yearly_seasonality=True to override this.
+INFO:prophet:Disabling daily seasonality. Run prophet with daily_seasonality=True to override this.
+DEBUG:cmdstanpy:input tempfile: C:\Users\hinal\AppData\Local\Temp\tmp4t_whr3m\olisrofa.json
+DEBUG:cmdstanpy:input tempfile: C:\Users\hinal\AppData\Local\Temp\tmp4t_whr3m\y8hutiz_.json
+DEBUG:cmdstanpy:idx 0
+DEBUG:cmdstanpy:running CmdStan, num_threads: None
+DEBUG:cmdstanpy:CmdStan args: ['C:\\Users\\hinal\\anaconda3\\Lib\\site-packages\\prophet\\stan_model\\prophet_model.bin', 'random', 'seed=89921', 'data', 'file=C:\\Users\\hinal\\AppData\\Local\\Temp\\tmp4t_whr3m\\olisrofa.json', 'init=C:\\Users\\hinal\\AppData\\Local\\Temp\\tmp4t_whr3m\\y8hutiz_.json', 'output', 'file=C:\\Users\\hinal\\AppData\\Local\\Temp\\tmp4t_whr3m\\prophet_model2b9x1g7r\\prophet_model-20221128223018.csv', 'method=optimize', 'algorithm=lbfgs', 'iter=10000']
+INFO:cmdstanpy:Chain [1] start processing
+INFO:cmdstanpy:Chain [1] done processing
